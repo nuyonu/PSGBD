@@ -1,0 +1,10 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Í§–Ÿ8½ý°ö­-
+wsquid:S2068"V'PASSWORD' detected in this expression, review this potentially hard-coded credential.(Ïû¸®ýÿÿÿÿ8½ý°ö­-
+<squid:S2068" Remove this hard-coded password.(è´£Š8½ý°ö­-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8½ý°ö­-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒÑŒ8½ý°ö­-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8½ý°ö­-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8½ý°ö­-

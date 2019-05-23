@@ -1,0 +1,4 @@
+
+Psquid:S2696"6Make the enclosing method "static" or remove this set.(Ş¸¿šÿÿÿÿÿ
+Ysquid:UselessImportCheck"0Remove this unused import 'java.nio.file.Paths'.(áè°¯8²àÛõ­-
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(”ù×8—ûîâ­-

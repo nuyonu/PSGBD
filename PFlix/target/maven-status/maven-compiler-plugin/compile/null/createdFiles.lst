@@ -1,0 +1,6 @@
+org\openjfx\SignUp.class
+org\openjfx\PrimaryController.class
+module-info.class
+org\openjfx\SecondaryController.class
+org\openjfx\Database.class
+org\openjfx\App.class

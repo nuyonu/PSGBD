@@ -1,0 +1,17 @@
+/*First AnchorPane*/
+.background {
+    -fx-background-color: #bf84ff;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 100% 100%;
+}
+
+.buttons {
+    -fx-background-color: #1b58d3;
+    -fx-border-radius: 10px;
+}
+
+.input-text {
+}
+
+.label-error {
+}
